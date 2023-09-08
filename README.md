@@ -1,15 +1,19 @@
 # gdb-tips
 
+## 简介
+
 本项目来源 <https://github.com/hellogcc/100-gdb-tips>
 
 在此基础上进行修改，并使用`gitbooks`在gitlab上构建出一个文档
 
 本项目中有丰富的gdb调试技巧，除了这些，大家可以往里面补充一些自己的技巧，比如一些好用的脚本
 
-开始阅读：
+## 开始阅读
 
-- [gdb-gitbooks(推荐)]()
+- [gdb-gitbooks(推荐)](https://kscbxxliuxp.github.io/gdb-tips/)
 - [gdb-tips(markdown)](SUMMARY.md)
+
+## gdbinit
 
 下面是我自己使用的`.gitinit`中定义了一些方便调试的脚本
 
